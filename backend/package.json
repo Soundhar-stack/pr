@@ -1,0 +1,15 @@
+{
+  "name": "leave_management_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "nodemailer": "^7.0.12",
+    "twilio": "^5.11.1"
+  }
+}
